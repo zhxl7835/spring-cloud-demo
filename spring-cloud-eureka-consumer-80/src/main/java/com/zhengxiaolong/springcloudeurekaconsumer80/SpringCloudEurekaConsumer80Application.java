@@ -9,5 +9,4 @@ public class SpringCloudEurekaConsumer80Application {
     public static void main(String[] args) {
         SpringApplication.run(SpringCloudEurekaConsumer80Application.class, args);
     }
-
 }
