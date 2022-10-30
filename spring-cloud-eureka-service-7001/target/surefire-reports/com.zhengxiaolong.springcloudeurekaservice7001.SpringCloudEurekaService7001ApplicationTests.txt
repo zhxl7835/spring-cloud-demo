@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.zhengxiaolong.springcloudeurekaservice7001.SpringCloudEurekaService7001ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.933 s - in com.zhengxiaolong.springcloudeurekaservice7001.SpringCloudEurekaService7001ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.815 s - in com.zhengxiaolong.springcloudeurekaservice7001.SpringCloudEurekaService7001ApplicationTests

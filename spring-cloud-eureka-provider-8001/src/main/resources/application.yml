@@ -3,7 +3,7 @@ server:
 spring:
   application:
     #name: microServiceCloudProviderDept  #微服务名称，对外暴漏的微服务名称，十分重要
-    name: spring-cloud-eureka-provider-8001  #微服务名称，对外暴漏的微服务名称，十分重要
+    name: spring-cloud-eureka-provider  #微服务名称，对外暴漏的微服务名称，十分重要
   ################################################## JDBC 通用配置  ##########################################
   datasource:
     username: root        #数据库登陆用户名

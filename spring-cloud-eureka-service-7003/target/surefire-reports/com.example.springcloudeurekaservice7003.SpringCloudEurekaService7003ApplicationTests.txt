@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.springcloudeurekaservice7003.SpringCloudEurekaService7003ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.546 s - in com.example.springcloudeurekaservice7003.SpringCloudEurekaService7003ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.65 s - in com.example.springcloudeurekaservice7003.SpringCloudEurekaService7003ApplicationTests
