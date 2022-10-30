@@ -1,0 +1,5 @@
+com\zhengxiaolong\springcloudeurekaprovider8001\controller\DeptController.class
+com\zhengxiaolong\springcloudeurekaprovider8001\service\DeptService.class
+com\zhengxiaolong\springcloudeurekaprovider8001\service\impl\DeptServiceImpl.class
+com\zhengxiaolong\springcloudeurekaprovider8001\SpringCloudEurekaProvider8001Application.class
+com\zhengxiaolong\springcloudeurekaprovider8001\mapper\DeptMapper.class
